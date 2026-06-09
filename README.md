@@ -1,10 +1,10 @@
-# 🚜 Discord Quest Farmer
+#  Discord Quest Farmer
 
 A lightweight, dynamic command-line utility designed for **Linux** to automate Discord Quest progress by safely spoofing game processes. 
 
 *Note: This tool is currently built specifically for Linux environments (utilizing Bash and native Linux coreutils like `sleep`). Windows support may be explored in the future!*
 
-## ✨ Features
+## Features
 
 * **Universal Spoofing:** Can mimic any folder structure and `.exe` name Discord is looking for. No hardcoded game lists required.
 * **Concurrent Farming:** Farm 5+ quests at the exact same time in the background.
@@ -12,7 +12,7 @@ A lightweight, dynamic command-line utility designed for **Linux** to automate D
 * **Cloud Sync:** Update your active quest list directly from a GitHub repository using a single command.
 * **Safe & Clean:** Uses the native, harmless Linux `/bin/sleep` command. Automatically cleans up all dummy files and folders the second the timer finishes. 100% safe from game-bound malware.
 
-## 🚀 Installation
+##  Installation
 
 1. Download the script:
    ```bash
@@ -29,7 +29,7 @@ A lightweight, dynamic command-line utility designed for **Linux** to automate D
    ```
 *(Note: You may need to restart your terminal or run `source ~/.bashrc` if `~/.local/bin` is not already in your PATH).*
 
-## 🎮 Usage
+##  Usage
 
 ### 1. The Auto-Farmer (Recommended)
 Sync the latest active quests from the cloud and farm them all simultaneously.
@@ -54,9 +54,9 @@ quest-farmer "Game/Endfield.exe" "EA SPORTS FC 26/FC26.exe"
 quest-farmer "WoT HEAT/HEAT.exe,WorldOfTanks.exe"
 ```
 
-## ⚙️ Configuration (`quests.txt`)
+## Configuration (`quests.txt`)
 
-If you are hosting your own list on GitHub, the script looks for a raw `quests.txt` file. The format is exactly one game path per line. 
+A not so well mantained list of active quest games and their specific file structure hosted on Github for ease of use. 
 
 Example `quests.txt`:
 ```text
@@ -70,5 +70,5 @@ EA SPORTS FC 26/FC26.exe
 
 *To change the URL the script pulls from, simply edit the `REPO_URL` variable at the top of the `quest-farmer` script.*
 
-## ⚠️ Disclaimer
+## Disclaimer
 This script is a third-party tool created for Linux users who cannot natively run Discord's game detection system. It does not interact with the Discord API or client memory. It simply creates harmless dummy processes. Use at your own discretion.
