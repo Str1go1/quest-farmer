@@ -5,4 +5,4 @@ Game/Endfield.exe
 EscapeTheBackrooms/Binaries/Win64/Backrooms-Win64-Shipping.exe
 EA SPORTS FC 26/FC26.exe
 Where Winds Meet/Win64r/wwm.exe
-Wuthering Waves/Wuthering Waves Game/Client-Win64-Shipping.exe
+Wuthering Waves.exe
