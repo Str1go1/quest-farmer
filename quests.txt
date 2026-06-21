@@ -1,6 +1,6 @@
-The Mound: Omen of Cthulhu FREE DEMO
-Zenless Zone Zero
-EMPULSE
-Arknights: Endfield
-Basketball Zero
-GOALS
+Win64\TheMound-Win64-Shipping.exe
+ZenlessZoneZero Game\ZenlessZoneZero.exe
+Orion\Binaries\Win64\OrionClient-Win64-Shipping.exe
+Game\Endfield.exe
+Roblox\RobloxPlayerBeta.exe
+Game\Binaries\Win64\Goals.exe
