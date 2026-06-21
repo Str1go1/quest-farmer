@@ -1,8 +1,6 @@
-Duet Night Abyss/EM-Win64-Shipping.exe
-Win64/HTGame.exe,Win64r/HTGame.exe
-RobloxPlayerBeta.exe
-Game/Endfield.exe
-EscapeTheBackrooms/Binaries/Win64/Backrooms-Win64-Shipping.exe
-EA SPORTS FC 26/FC26.exe
-Where Winds Meet/Win64r/wwm.exe
-Wuthering Waves.exe
+The Mound: Omen of Cthulhu FREE DEMO
+Zenless Zone Zero
+EMPULSE
+Arknights: Endfield
+Basketball Zero
+GOALS
